@@ -35,9 +35,7 @@
 
 - [fwxiaohan](fwxiaohan.github.io)
 
-## 最便宜的 VPN
 
-[https://nianbroken.github.io/Great-Firewall/](https://nianbroken.github.io/Great-Firewall/)
 
 ## 其他
 
