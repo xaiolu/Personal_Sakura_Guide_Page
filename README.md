@@ -6,10 +6,10 @@
 
 ###我是网络搬运工
 
-二修代码github：[NianBroken](https://github.com/NianBroken/Personal_Sakura_Guide_Page "NianBroken") 
+- 二修代码github：[NianBroken](https://github.com/NianBroken/Personal_Sakura_Guide_Page "NianBroken") 
 
 
-<img src="https://blog.nianbroken.top/NianBrokenStorage/FileStorage/7/03.png" alt="主界面" style="zoom:35%;" />
+- <img src="https://https://github.com/xaiolu/Personal_Sakura_Guide_Page/images/style.png" alt="主界面" style="zoom:35%;" />
 
 </div>
 
