@@ -9,7 +9,7 @@
 二修代码github：[NianBroken](https://github.com/NianBroken/Personal_Sakura_Guide_Page "NianBroken") 
 
 
-<img src="https://github.com/xaiolu/Personal_Sakura_Guide_Page/images/style.png" alt="主界面" style="zoom:35%;" />
+<img src="https://github.com/xaiolu/Personal_Sakura_Guide_Page/blob/e9a15c8f765c8fea4419c3a47c469cea329be687/images/style.jpg" alt="主界面" style="zoom:35%;" />
 
 </div>
 
